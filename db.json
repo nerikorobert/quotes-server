@@ -1,0 +1,29 @@
+{
+    "diary_entries": [
+      {
+        "id": 1,
+        "date": "2023-08-01",
+        "title": "First Day of My Diary",
+        "content": "Today, I started my diary website project. I designed the layout and decided on the features I want to include. It's exciting to see my idea come to life!"
+      },
+      {
+        "id": 2,
+        "date": "2023-08-02",
+        "title": "Meeting an Old Friend after classes",
+        "content": "Met my childhood friend, Sarah, after years. We spent the day reminiscing about our school days and catching up on each other's lives. It was a heartwarming reunion!"
+      },
+      {
+        "id": 3,
+        "date": "2023-08-03",
+        "title": "Hiking Adventure",
+        "content": "Went on a thrilling hike to the nearby mountains. The scenic views were breathtaking, and I felt so close to nature. Definitely going to make hiking a regular activity."
+      },
+      {
+        "id": 4,
+        "date": "2023-08-04",
+        "title": "Experimenting with New Recipes",
+        "content": "Tried cooking some new recipes today. The lasagna turned out amazing, but the meat pie was a disaster! Cooking can be so much fun and challenging at the same time."
+      }
+    ]
+  }
+  
